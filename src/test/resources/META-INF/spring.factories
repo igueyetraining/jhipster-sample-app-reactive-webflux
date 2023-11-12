@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.igueyetraining.\
+    config.SqlTestContainersSpringContextCustomizerFactory,com.igueyetraining.\
+    config.KafkaTestContainersSpringContextCustomizerFactory
